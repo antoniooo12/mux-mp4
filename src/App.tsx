@@ -2,7 +2,7 @@ import {useState, useEffect, useRef} from 'react';
 import './App.css';
 import MuxPlayer from "@mux/mux-player-react";
 
-const playbackId = '2S6tPktY42x1tmsbZEyCFIPg1Zw1lPRk9jxaResjy4I';
+const playbackId = 'i1BqaXIFfG677EnkqWOKZAa026y5SKOLdEU7wth1MZPw';
 const src = `https://stream.mux.com/${playbackId}/capped-1080p.mp4`;
 
 function App() {
